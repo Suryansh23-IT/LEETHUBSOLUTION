@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0007-reverse-integer) |
 | [2491-smallest-even-multiple](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2491-smallest-even-multiple) |
 ## Number Theory
 |  |
