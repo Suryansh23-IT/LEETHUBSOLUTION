@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0001-two-sum) |
+| [0890-lemonade-change](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0890-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2491-smallest-even-multiple) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
