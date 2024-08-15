@@ -1,10 +1,9 @@
 class Solution {
 public:
-    bool lemonadeChange(vector<int> bills) {
-        int l=bills.size();       
+    bool lemonadeChange(vector<int> bills) {      
         if(bills[0]!=5) return 0;
         int five=1,ten=0;
-        for(int i=1;i<l;i++){
+        for(int i=1;i<bills.size();i++){
             if(bills[i]==5) {
                 five++;
             }
