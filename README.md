@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0075-sort-colors) |
 | [0890-lemonade-change](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0890-lemonade-change) |
 | [2727-number-of-senior-citizens](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2727-number-of-senior-citizens](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2727-number-of-senior-citizens) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
