@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0268-missing-number) |
+| [0273-integer-to-english-words](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0367-valid-perfect-square) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0058-length-of-last-word) |
+| [0273-integer-to-english-words](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0273-integer-to-english-words) |
 | [2727-number-of-senior-citizens](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
 |  |
@@ -82,5 +84,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0231-power-of-two) |
+| [0273-integer-to-english-words](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
