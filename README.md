@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0624-maximum-distance-in-arrays) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
