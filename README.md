@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0624-maximum-distance-in-arrays) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0191-number-of-1-bits) |
 ## Recursion
 |  |
@@ -86,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0326-power-of-three) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
