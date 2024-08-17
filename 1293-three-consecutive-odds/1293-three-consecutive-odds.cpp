@@ -5,9 +5,9 @@ public:
         for(int i=0;i<arr.size();i++){
             if(arr[i]%2!=0) {
                 cnt++;
-                if(cnt==3) return 1;
             }
             else cnt=0;
+            if(cnt==3) return 1;
         }
         return 0;
     }
