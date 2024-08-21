@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1293-three-consecutive-odds) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1635-number-of-good-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1635-number-of-good-pairs](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0367-valid-perfect-square) |
+| [1635-number-of-good-pairs](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2491-smallest-even-multiple](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2491-smallest-even-multiple) |
 ## Number Theory
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1635-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
