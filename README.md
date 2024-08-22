@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0268-missing-number) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0268-missing-number) |
