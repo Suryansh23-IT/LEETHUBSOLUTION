@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0506-relative-ranks) |
 | [0624-maximum-distance-in-arrays](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0890-lemonade-change) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0506-relative-ranks) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2502-sort-the-people) |
 ## Binary Search
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/3221-find-the-peaks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
