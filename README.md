@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2491-smallest-even-multiple](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2491-smallest-even-multiple) |
+| [3371-harshad-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Number Theory
