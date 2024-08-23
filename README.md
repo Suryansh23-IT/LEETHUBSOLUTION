@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0890-lemonade-change) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1293-three-consecutive-odds](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1293-three-consecutive-odds) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1635-number-of-good-pairs) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0367-valid-perfect-square) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1635-number-of-good-pairs](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2491-smallest-even-multiple](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2491-smallest-even-multiple) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0506-relative-ranks) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
