@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1293-three-consecutive-odds) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1580-shuffle-the-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1635-number-of-good-pairs) |
 | [2502-sort-the-people](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2502-sort-the-people) |
