@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1635-number-of-good-pairs](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2383-add-two-integers](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2491-smallest-even-multiple) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3371-harshad-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/3371-harshad-number) |
