@@ -7,7 +7,7 @@ public:
             while(p>0){
                 k++;
                 p=p/10;
-            }
+            } 
             if(p==0 and k%2==0) cnt++;
         }
         return cnt;
