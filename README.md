@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2727-number-of-senior-citizens) |
 | [3221-find-the-peaks](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/3221-find-the-peaks) |
+| [3311-ant-on-the-boundary](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/3311-ant-on-the-boundary) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1603-running-sum-of-1d-array) |
+| [3311-ant-on-the-boundary](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/3311-ant-on-the-boundary) |
 ## String Matching
 |  |
 | ------- |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1349-check-if-it-is-a-straight-line) |
+## Simulation
+|  |
+| ------- |
+| [3311-ant-on-the-boundary](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/3311-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
