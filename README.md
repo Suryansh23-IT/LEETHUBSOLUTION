@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0506-relative-ranks) |
 | [0624-maximum-distance-in-arrays](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0624-maximum-distance-in-arrays) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0674-longest-continuous-increasing-subsequence) |
