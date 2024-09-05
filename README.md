@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2502-sort-the-people) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2727-number-of-senior-citizens) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3221-find-the-peaks](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/3221-find-the-peaks) |
 | [3311-ant-on-the-boundary](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/3311-ant-on-the-boundary) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3221-find-the-peaks](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/3221-find-the-peaks) |
 ## Heap (Priority Queue)
 |  |
