@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0441-arranging-coins) |
 | [0944-smallest-range-i](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0944-smallest-range-i) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1635-number-of-good-pairs) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0011-container-with-most-water) |
 | [0624-maximum-distance-in-arrays](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0890-lemonade-change) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1303-minimum-moves-to-reach-target-score) |
 ## String
 |  |
 | ------- |
