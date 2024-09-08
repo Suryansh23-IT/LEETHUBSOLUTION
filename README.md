@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2844-sum-of-squares-of-special-elements](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3221-find-the-peaks](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/3221-find-the-peaks) |
 | [3311-ant-on-the-boundary](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/3311-ant-on-the-boundary) |
+| [3324-split-the-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/3324-split-the-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1635-number-of-good-pairs) |
 | [2502-sort-the-people](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2502-sort-the-people) |
+| [3324-split-the-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/3324-split-the-array) |
 ## Math
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0169-majority-element) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1635-number-of-good-pairs) |
+| [3324-split-the-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/3324-split-the-array) |
 ## Prefix Sum
 |  |
 | ------- |
