@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0169-majority-element) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0231-power-of-two) |
