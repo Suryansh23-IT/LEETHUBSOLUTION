@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0441-arranging-coins) |
 | [0944-smallest-range-i](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0944-smallest-range-i) |
+| [1013-fibonacci-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1013-fibonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -201,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1791-richest-customer-wealth) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
