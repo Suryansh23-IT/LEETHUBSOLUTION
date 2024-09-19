@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0932-monotonic-array) |
 | [0944-smallest-range-i](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0944-smallest-range-i) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1031-add-to-array-form-of-integer](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1031-add-to-array-form-of-integer) |
 | [1115-valid-boomerang](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1115-valid-boomerang) |
 | [1293-three-consecutive-odds](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1293-three-consecutive-odds) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0441-arranging-coins) |
 | [0944-smallest-range-i](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1013-fibonacci-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1031-add-to-array-form-of-integer) |
 | [1115-valid-boomerang](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1115-valid-boomerang) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1349-check-if-it-is-a-straight-line) |
