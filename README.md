@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2350-find-closest-number-to-zero](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2350-find-closest-number-to-zero) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2502-sort-the-people](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2502-sort-the-people) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2727-number-of-senior-citizens) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0890-lemonade-change) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## String
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0506-relative-ranks) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2502-sort-the-people](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2502-sort-the-people) |
 ## Binary Search
 |  |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/0506-relative-ranks) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Geometry
 |  |
 | ------- |
