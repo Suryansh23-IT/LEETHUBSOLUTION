@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1635-number-of-good-pairs) |
+| [1769-get-maximum-in-generated-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1769-get-maximum-in-generated-array) |
 | [1791-richest-customer-wealth](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1791-richest-customer-wealth) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2155-find-missing-observations](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2155-find-missing-observations) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1769-get-maximum-in-generated-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1769-get-maximum-in-generated-array) |
 | [2155-find-missing-observations](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2298-count-integers-with-even-digit-sum) |
