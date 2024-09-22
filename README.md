@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2491-smallest-even-multiple) |
+| [2571-find-the-pivot-integer](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2571-find-the-pivot-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3371-harshad-number](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/1603-running-sum-of-1d-array) |
+| [2571-find-the-pivot-integer](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2571-find-the-pivot-integer) |
 | [3311-ant-on-the-boundary](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/3311-ant-on-the-boundary) |
 ## String Matching
 |  |
