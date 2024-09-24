@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2350-find-closest-number-to-zero) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2502-sort-the-people](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2502-sort-the-people) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2727-number-of-senior-citizens) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2491-smallest-even-multiple) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2571-find-the-pivot-integer](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2571-find-the-pivot-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/Suryansh23-IT/LEETHUBSOLUTION/tree/master/2752-sum-multiples) |
